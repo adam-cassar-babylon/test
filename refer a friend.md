@@ -2,8 +2,8 @@
 
 **category**|**action**|**label**|**trigger**
 :-----:|:-----:|:-----:|:-----:
-refer a friend|click|invite friend *or* referred|user clicks invite friends link *or* clicks on referred link
-refer a friend|return|invite friend *or* referred|user returns from *mention me* modal
+refer a friend|click|'invite friend', 'referred'|user clicks invite friends link *or* clicks on referred link
+refer a friend|return|'invite' friend', 'referred'|user returns from *mention me* modal
 
 
 #### Refer a friend events - JS
